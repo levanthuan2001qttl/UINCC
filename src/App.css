@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+body {
+  line-height: 1;
+  margin: 0;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+.container {
+  display: flex;
+}
+
+.list-box {
+      display: flex;
+    margin: 0 70px;
+    height: 500px;
+}

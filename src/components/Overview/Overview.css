@@ -1,0 +1,16 @@
+ .logo {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        margin-bottom: 20px;
+      }
+      .overview {
+       display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    background: #EFEFEF;
+    padding: 30px 132px;
+    margin: 0 70px;
+      }

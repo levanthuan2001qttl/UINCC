@@ -1,0 +1,35 @@
+.box-item {
+    padding: 8px;
+}
+
+.title-box {
+    text-align: left;
+    color: #000000;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.box-content {
+    display: flex;
+}
+
+.box-content p {
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-align: left;
+    margin: 0;
+}
+
+.box-content img {
+        width: 136px;
+    height: 136px;
+}
+
+.text-bottom {
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-align: left;
+    margin:0;
+}
